@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524044651016",
+    "project_id": "reac-44916",
+    "storage_bucket": "reac-44916.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524044651016:android:ce3212f8e06e8487addfbd",
+        "android_client_info": {
+          "package_name": "com.ytreactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rWgv7VBE7FAsog3oLot25lc2h03Tt5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
